@@ -6,9 +6,9 @@ SonarQube aggregates code coverage by unit tests and integration tests to comput
 Prerequisites
 =============
 * [SonarQube](http://www.sonarqube.org/downloads/) 
-* Maven 3+ 
-hi hello hey
-1233
+* Maven 3+ 456
+hi hello
+
 Usage
 =====
 * Build the project, execute all the tests and analyze the project with SonarQube Scanner for Maven:

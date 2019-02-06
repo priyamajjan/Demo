@@ -7,14 +7,14 @@
   <artifactId>parent</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
-  <module>
+
   <name>Example of SonarQube Scanner for Maven + Code Coverage by UT and IT</name>
 
   <modules>
     <module>app-java</module>
     <module>app-groovy</module>
     <module>app-it</module>
-  </module>
+  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
